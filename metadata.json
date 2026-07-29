@@ -1,0 +1,6 @@
+{
+  "name": "Medicare Medical Store",
+  "description": "Your trusted medical store in Bihar for genuine medicines, surgical supplies, and comprehensive healthcare products with online WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

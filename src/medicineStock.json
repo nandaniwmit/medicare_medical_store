@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "medicineName": "Paracetamol 650mg",
+    "brand": "Dolo-650 (Micro Labs)",
+    "mrp": 30.00,
+    "availableQuantity": 120,
+    "expiry": "12/2027",
+    "status": "Available",
+    "category": "OTC Medicines"
+  },
+  {
+    "id": 2,
+    "medicineName": "Amoxicillin 500mg",
+    "brand": "Novamox 500 (Cipla)",
+    "mrp": 105.50,
+    "availableQuantity": 45,
+    "expiry": "09/2026",
+    "status": "Available",
+    "category": "Prescription Medicines"
+  },
+  {
+    "id": 3,
+    "medicineName": "Metformin 500mg",
+    "brand": "Glycomet 500 (USV)",
+    "mrp": 24.00,
+    "availableQuantity": 200,
+    "expiry": "05/2027",
+    "status": "Available",
+    "category": "Prescription Medicines"
+  },
+  {
+    "id": 4,
+    "medicineName": "Atorvastatin 10mg",
+    "brand": "Lipvas 10 (Cipla)",
+    "mrp": 85.00,
+    "availableQuantity": 8,
+    "expiry": "10/2026",
+    "status": "Limited Stock",
+    "category": "Prescription Medicines"
+  },
+  {
+    "id": 5,
+    "medicineName": "Cetirizine 10mg",
+    "brand": "Okacet (Cipla)",
+    "mrp": 18.00,
+    "availableQuantity": 150,
+    "expiry": "03/2027",
+    "status": "Available",
+    "category": "OTC Medicines"
+  },
+  {
+    "id": 6,
+    "medicineName": "Vitamin C 500mg",
+    "brand": "Limcee (Abbott)",
+    "mrp": 25.50,
+    "availableQuantity": 300,
+    "expiry": "11/2027",
+    "status": "Available",
+    "category": "Supplements"
+  },
+  {
+    "id": 7,
+    "medicineName": "Pantoprazole 40mg",
+    "brand": "Pan-40 (Alkem)",
+    "mrp": 145.00,
+    "availableQuantity": 0,
+    "expiry": "08/2026",
+    "status": "Out of Stock",
+    "category": "Prescription Medicines"
+  },
+  {
+    "id": 8,
+    "medicineName": "Azithromycin 500mg",
+    "brand": "Azithral 500 (Alembic)",
+    "mrp": 119.00,
+    "availableQuantity": 60,
+    "expiry": "04/2027",
+    "status": "Available",
+    "category": "Prescription Medicines"
+  },
+  {
+    "id": 9,
+    "medicineName": "Ibuprofen 400mg",
+    "brand": "Brufen 400 (Abbott)",
+    "mrp": 15.00,
+    "availableQuantity": 85,
+    "expiry": "02/2027",
+    "status": "Available",
+    "category": "OTC Medicines"
+  },
+  {
+    "id": 10,
+    "medicineName": "Amlodipine 5mg",
+    "brand": "Amlong 5 (Micro Labs)",
+    "mrp": 32.00,
+    "availableQuantity": 5,
+    "expiry": "07/2026",
+    "status": "Limited Stock",
+    "category": "Prescription Medicines"
+  },
+  {
+    "id": 11,
+    "medicineName": "Baby Gripe Water",
+    "brand": "Woodward's",
+    "mrp": 95.00,
+    "availableQuantity": 40,
+    "expiry": "01/2027",
+    "status": "Available",
+    "category": "Baby Care"
+  },
+  {
+    "id": 12,
+    "medicineName": "Digital Thermometer",
+    "brand": "Omron MT-1013",
+    "mrp": 299.00,
+    "availableQuantity": 15,
+    "expiry": "N/A",
+    "status": "Available",
+    "category": "Health Devices"
+  },
+  {
+    "id": 13,
+    "medicineName": "Blood Pressure Monitor",
+    "brand": "Omron HEM-7120",
+    "mrp": 2499.00,
+    "availableQuantity": 3,
+    "expiry": "N/A",
+    "status": "Limited Stock",
+    "category": "Health Devices"
+  },
+  {
+    "id": 14,
+    "medicineName": "Multivitamin Capsules",
+    "brand": "Becadexamin (Glaxo)",
+    "mrp": 50.00,
+    "availableQuantity": 180,
+    "expiry": "06/2027",
+    "status": "Available",
+    "category": "Supplements"
+  },
+  {
+    "id": 15,
+    "medicineName": "Antiseptic Liquid 500ml",
+    "brand": "Dettol Liquid",
+    "mrp": 218.00,
+    "availableQuantity": 50,
+    "expiry": "10/2028",
+    "status": "Available",
+    "category": "Home Care"
+  },
+  {
+    "id": 16,
+    "medicineName": "Insulin Glargine 100 IU/ml",
+    "brand": "Lantus Solostar (Sanofi)",
+    "mrp": 1420.00,
+    "availableQuantity": 0,
+    "expiry": "12/2026",
+    "status": "Out of Stock",
+    "category": "Prescription Medicines"
+  }
+]
