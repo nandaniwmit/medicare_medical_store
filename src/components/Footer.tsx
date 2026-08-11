@@ -360,16 +360,8 @@ export default function Footer() {
           <div className="flex flex-wrap items-center justify-center md:justify-start gap-x-6 gap-y-2">
             <span>&copy; {new Date().getFullYear()} Medicare Medical Store. All rights reserved.</span>
             <div className="flex items-center gap-2 font-semibold">
-              <span>Developed by</span>
-              <a
-                href="https://main.webmakerit.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-teal-400 hover:text-teal-300 flex items-center gap-0.5 hover:underline font-bold"
-              >
-                WMIT
-                <ExternalLink className="w-3 h-3 inline" />
-              </a>
+              <span></span>
+              <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
             </div>
           </div>
 
